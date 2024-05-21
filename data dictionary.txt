@@ -1,0 +1,30 @@
+1.  Age: Age of the patient in years.
+2.  Sex: Gender of the patient. 1 represents male, 0 represents female.
+3.  CP (Chest Pain Type): Type of chest pain experienced by the patient.
+	0: Typical angina
+	1: Atypical angina
+	2: Non-anginal pain
+	3: Asymptomatic
+4.  Trestbps: Resting blood pressure of the patient in mm Hg on admission to the hospital.
+5.  Chol: Serum cholesterol level in mg/dl.
+6.  FBS (Fasting Blood Sugar): Whether the patient's fasting blood sugar is above 120 mg/dl. 1 represents true, 0 represents false.
+7.  Restecg (Resting Electrocardiographic Results): Results of the resting electrocardiogram.
+	0: Normal
+	1: ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+	2: Probable or definite left ventricular hypertrophy by Estes' criteria
+8.  Thalach: Maximum heart rate achieved.
+9.  Exang (Exercise Induced Angina): Whether the patient experienced exercise-induced angina. 1 represents yes, 0 represents no.
+10. Oldpeak: ST depression induced by exercise relative to rest.
+11. Slope: The slope of the peak exercise ST segment.
+	0: Upsloping
+	1: Flat
+	2: Downsloping
+12. Ca (Number of Major Vessels): Number of major vessels (0-3) colored by fluoroscopy.
+13. Thal: Thalassemia type.
+	0: Error
+	1: Fixed defect
+	2: Normal
+	3: Reversible defect
+14. Target: The label indicating whether the patient has heart disease.
+	0: No disease
+	1: Disease
